@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674434519179",
+    "project_id": "radio-2d111",
+    "storage_bucket": "radio-2d111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674434519179:android:d8283158c75d4f84fdc48e",
+        "android_client_info": {
+          "package_name": "com.example.my_radio_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVtW3j58VHk5pW4Czz7oZwe9IQqTUHfLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
